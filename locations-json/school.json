@@ -1,0 +1,482 @@
+[
+  {
+    "locationName": "School",
+    "locatonDetails": "https://www.google.com/maps/place/School/data=!4m7!3m6!1s0x3962fd609a4dfde9:0x7beae91ed9aa9e94!8m2!3d22.7445529!4d75.8760663!16s%2Fg%2F11gf12gn66!19sChIJ6f1NmmD9YjkRlJ6q2R7p6ns?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Nageshwar Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/Nageshwar+Higher+Secondary+School/data=!4m7!3m6!1s0x3962fd5b5f98f72f:0x8d565c4621ba63f6!8m2!3d22.7408406!4d75.8794214!16s%2Fg%2F1pp2vck28!19sChIJL_eYX1v9YjkR9mO6IUZcVo0?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Pragati Convent School",
+    "locatonDetails": "https://www.google.com/maps/place/Pragati+Convent+School/data=!4m7!3m6!1s0x3963029deddf6705:0xaa8aad7b4589143c!8m2!3d22.7486928!4d75.869733!16s%2Fg%2F11c6w12ddl!19sChIJBWff7Z0CYzkRPBSJRXutiqo?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Mayur higher secondary school",
+    "locatonDetails": "https://www.google.com/maps/place/Mayur+higher+secondary+school/data=!4m7!3m6!1s0x3962fd603e8022f3:0x6c8b5f95477768ec!8m2!3d22.7471227!4d75.8751574!16s%2Fg%2F1q6j7v2gh!19sChIJ8yKAPmD9YjkR7Gh3R5Vfi2w?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "J.V.M.Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/J.V.M.Higher+Secondary+School/data=!4m7!3m6!1s0x3962fd912332f4d9:0xf0b0c0b9a12db0c0!8m2!3d22.741203!4d75.879356!16s%2Fg%2F11cmy90_wq!19sChIJ2fQyI5H9YjkRwLAtobnAsPA?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Merit Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/Merit+Higher+Secondary+School/data=!4m7!3m6!1s0x3962fd5faab87965:0x532b917672e42303!8m2!3d22.7459283!4d75.8795448!16s%2Fg%2F1hm241sxc!19sChIJZXm4ql_9YjkRAyPkcnaRK1M?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "New Daily High Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/New+Daily+High+Secondary+School/data=!4m7!3m6!1s0x3962fd5fa4d88ed1:0x9aced61bb57e7045!8m2!3d22.7467072!4d75.8788889!16s%2Fg%2F11bbrllmjh!19sChIJ0Y7YpF_9YjkRRXB-tRvWzpo?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Navjeevan School",
+    "locatonDetails": "https://www.google.com/maps/place/Navjeevan+School/data=!4m7!3m6!1s0x3962fd86faf2b62d:0xe3ce248f97268e8f!8m2!3d22.7488499!4d75.8844794!16s%2Fg%2F11h7jh5j3n!19sChIJLbby-ob9YjkRj44ml48kzuM?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Marthona School",
+    "locatonDetails": "https://www.google.com/maps/place/Marthona+School/data=!4m7!3m6!1s0x3962fd61102a3a55:0xb0cdbda07e1d148d!8m2!3d22.7444127!4d75.8728345!16s%2Fg%2F11cn695cym!19sChIJVToqEGH9YjkRjRQdfqC9zbA?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Rishabh Convent",
+    "locatonDetails": "https://www.google.com/maps/place/Rishabh+Convent/data=!4m7!3m6!1s0x3962fd5e09fca817:0xd00ff709f293edb2!8m2!3d22.7430985!4d75.8787222!16s%2Fg%2F11bbrkg2wq!19sChIJF6j8CV79YjkRsu2T8gn3D9A?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Joint Mission H.S. School",
+    "locatonDetails": "https://www.google.com/maps/place/Joint+Mission+H.S.+School/data=!4m7!3m6!1s0x3962fd602f21a2d7:0xf3baffc8e9171c25!8m2!3d22.747819!4d75.8742897!16s%2Fg%2F11bbrgk9vb!19sChIJ16IhL2D9YjkRJRwX6cj_uvM?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Ap",
+    "locatonDetails": "https://www.google.com/maps/place/Ap/data=!4m7!3m6!1s0x3962fd78cdb4a2c3:0x6ec6cadc68bb3ce0!8m2!3d22.7420924!4d75.8792294!16s%2Fg%2F11svj0wzf3!19sChIJw6K0zXj9YjkR4Dy7aNzKxm4?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Sunshine Public School",
+    "locatonDetails": "https://www.google.com/maps/place/Sunshine+Public+School/data=!4m7!3m6!1s0x3963029fcef1563d:0x30f4761e60a75cce!8m2!3d22.7492293!4d75.8742263!16s%2Fg%2F11bbrnjxzs!19sChIJPVbxzp8CYzkRzlynYB529DA?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Advance Public School 184 Meghdoot Nagar .Indore",
+    "locatonDetails": "https://www.google.com/maps/place/Advance+Public+School+184+Meghdoot+Nagar+.Indore/data=!4m7!3m6!1s0x396302a761555555:0xdcf4a8ed545dfc73!8m2!3d22.750082!4d75.8835183!16s%2Fg%2F11f4qfns8w!19sChIJVVVVYacCYzkRc_xdVO2o9Nw?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "New Horizon School",
+    "locatonDetails": "https://www.google.com/maps/place/New+Horizon+School/data=!4m7!3m6!1s0x3962fd5ab36ac85d:0xaa1fc61b24814222!8m2!3d22.7378736!4d75.8872545!16s%2Fg%2F11c5_8s13h!19sChIJXchqs1r9YjkRIkKBJBvGH6o?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "New Father Angel H.S. School",
+    "locatonDetails": "https://www.google.com/maps/place/New+Father+Angel+H.S.+School/data=!4m7!3m6!1s0x3962fd6d5c629411:0x664b98a54b1da8d2!8m2!3d22.7476036!4d75.8805529!16s%2Fg%2F1tfmg6dk!19sChIJEZRiXG39YjkR0qgdS6WYS2Y?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Great Mahavir School",
+    "locatonDetails": "https://www.google.com/maps/place/Great+Mahavir+School/data=!4m7!3m6!1s0x3962fd262af5c9af:0x18874f9831bb27ee!8m2!3d22.7369129!4d75.8972796!16s%2Fg%2F11swnb29ph!19sChIJr8n1Kib9YjkR7ie7MZhPhxg?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Jain Kids Convent school",
+    "locatonDetails": "https://www.google.com/maps/place/Jain+Kids+Convent+school/data=!4m7!3m6!1s0x3962fd5dc3882d89:0xee0da1352d0bf300!8m2!3d22.7435806!4d75.8761792!16s%2Fg%2F11bbrk_22y!19sChIJiS2Iw139YjkRAPMLLTWhDe4?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Gov. Middle School No.11 Nanda Nagar",
+    "locatonDetails": "https://www.google.com/maps/place/Gov.+Middle+School+No.11+Nanda+Nagar/data=!4m7!3m6!1s0x3962fd5c6a9f0cd1:0x3d4c8a553bd19431!8m2!3d22.7414853!4d75.8810033!16s%2Fg%2F11hbgj3m57!19sChIJ0Qyfalz9YjkRMZTRO1WKTD0?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Vaishnav Shree Bal Mandir H.S. School",
+    "locatonDetails": "https://www.google.com/maps/place/Vaishnav+Shree+Bal+Mandir+H.S.+School/data=!4m7!3m6!1s0x3962fd5b9e40d081:0x9c1d71991d340a1a!8m2!3d22.7404424!4d75.88363!16s%2Fg%2F11f0wf651z!19sChIJgdBAnlv9YjkRGgo0HZlxHZw?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Jain Kids Convent school",
+    "locatonDetails": "https://www.google.com/maps/place/Jain+Kids+Convent+school/data=!4m7!3m6!1s0x3962fd5dc3882d89:0xee0da1352d0bf300!8m2!3d22.7435806!4d75.8761792!16s%2Fg%2F11bbrk_22y!19sChIJiS2Iw139YjkRAPMLLTWhDe4?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Great Mahavir School",
+    "locatonDetails": "https://www.google.com/maps/place/Great+Mahavir+School/data=!4m7!3m6!1s0x3962fd262af5c9af:0x18874f9831bb27ee!8m2!3d22.7369129!4d75.8972796!16s%2Fg%2F11swnb29ph!19sChIJr8n1Kib9YjkR7ie7MZhPhxg?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Mahavir Bal Mandir Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/Mahavir+Bal+Mandir+Higher+Secondary+School/data=!4m7!3m6!1s0x3962fd4930000001:0xa0e3cc4c0b4dd5fe!8m2!3d22.7299219!4d75.8911699!16s%2Fg%2F11c1p49zmv!19sChIJAQAAMEn9YjkR_tVNC0zM46A?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Gov. Middle School No.11 Nanda Nagar",
+    "locatonDetails": "https://www.google.com/maps/place/Gov.+Middle+School+No.11+Nanda+Nagar/data=!4m7!3m6!1s0x3962fd5c6a9f0cd1:0x3d4c8a553bd19431!8m2!3d22.7414853!4d75.8810033!16s%2Fg%2F11hbgj3m57!19sChIJ0Qyfalz9YjkRMZTRO1WKTD0?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Shree Satya Sai Bai Vinay Mandir Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/Shree+Satya+Sai+Bai+Vinay+Mandir+Higher+Secondary+School/data=!4m7!3m6!1s0x3962fd61cb70fa09:0xf693d92b3a7d727a!8m2!3d22.747055!4d75.8735796!16s%2Fg%2F1q62k__4y!19sChIJCfpwy2H9YjkRenJ9OivZk_Y?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Vaishnav Shree Bal Mandir H.S. School",
+    "locatonDetails": "https://www.google.com/maps/place/Vaishnav+Shree+Bal+Mandir+H.S.+School/data=!4m7!3m6!1s0x3962fd5b9e40d081:0x9c1d71991d340a1a!8m2!3d22.7404424!4d75.88363!16s%2Fg%2F11f0wf651z!19sChIJgdBAnlv9YjkRGgo0HZlxHZw?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Real Talent School",
+    "locatonDetails": "https://www.google.com/maps/place/Real+Talent+School/data=!4m7!3m6!1s0x3962fd5e6959e3cf:0xcbc70469c90e4911!8m2!3d22.7439512!4d75.8784673!16s%2Fg%2F124sw7xq7!19sChIJz-NZaV79YjkREUkOyWkEx8s?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Arpana Convent Highsecondary School",
+    "locatonDetails": "https://www.google.com/maps/place/Arpana+Convent+Highsecondary+School/data=!4m7!3m6!1s0x3962fd52c4fbf499:0xe717498cd48e5728!8m2!3d22.7408427!4d75.8989358!16s%2Fg%2F11g6nhrqyz!19sChIJmfT7xFL9YjkRKFeO1IxJF-c?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Little kids planet school",
+    "locatonDetails": "https://www.google.com/maps/place/Little+kids+planet+school/data=!4m7!3m6!1s0x3962fdb7bdc10739:0x2faa8a4e6f214a74!8m2!3d22.7423981!4d75.8815458!16s%2Fg%2F11rg8qzb21!19sChIJOQfBvbf9YjkRdEohb06Kqi8?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Parijat higher secondary school",
+    "locatonDetails": "https://www.google.com/maps/place/Parijat+higher+secondary+school/data=!4m7!3m6!1s0x3962e2aca961b409:0xcb5899d9ded1979c!8m2!3d22.7445025!4d75.9002374!16s%2Fg%2F11c2y4zb1v!19sChIJCbRhqaziYjkRnJfR3tmZWMs?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Meghdoot Nagar",
+    "locatonDetails": "https://www.google.com/maps/place/Meghdoot+Nagar/data=!4m7!3m6!1s0x3963035fac481617:0x81fc3859074293cd!8m2!3d22.7499856!4d75.8828222!16s%2Fg%2F11pvc6z9lt!19sChIJFxZIrF8DYzkRzZNCB1k4_IE?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Takshshaila Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/Takshshaila+Higher+Secondary+School/data=!4m7!3m6!1s0x3962fd5ee0e207a9:0xfb5994212bd29a86!8m2!3d22.745688!4d75.880809!16s%2Fg%2F11hbsnwrbw!19sChIJqQfi4F79YjkRhprSKyGUWfs?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Naveen vidhya niketan High school",
+    "locatonDetails": "https://www.google.com/maps/place/Naveen+vidhya+niketan+High+school/data=!4m7!3m6!1s0x3962e2b326b6e7ed:0x3d62f217e78a55b5!8m2!3d22.7362323!4d75.9008697!16s%2Fg%2F11g6xn6gh1!19sChIJ7ee2JrPiYjkRtVWK5xfyYj0?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Saint Edward Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/Saint+Edward+Higher+Secondary+School/data=!4m7!3m6!1s0x3962fd613af8415f:0xbd76aa6d0e45876a!8m2!3d22.7431782!4d75.8728279!16s%2Fg%2F1q62ksp7z!19sChIJX0H4OmH9YjkRaodFDm2qdr0?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Nirala standard public school",
+    "locatonDetails": "https://www.google.com/maps/place/Nirala+standard+public+school/data=!4m7!3m6!1s0x3962e33486652143:0x36ef1caf59fde809!8m2!3d22.7410659!4d75.9009609!16s%2Fg%2F11fl90_zdq!19sChIJQyFlhjTjYjkRCej9Wa8c7zY?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Govt H. S. School Nehru Nagar",
+    "locatonDetails": "https://www.google.com/maps/place/Govt+H.+S.+School+Nehru+Nagar/data=!4m7!3m6!1s0x3962fd608495a651:0xcd3812453d0cf30a!8m2!3d22.7449303!4d75.8762163!16s%2Fg%2F11gdvtyd8j!19sChIJUaaVhGD9YjkRCvMMPUUSOM0?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Pragya Vidhya Niketan",
+    "locatonDetails": "https://www.google.com/maps/place/Pragya+Vidhya+Niketan/data=!4m7!3m6!1s0x3962e2b2d8ffffff:0xf712cfb169c5fa5!8m2!3d22.7361597!4d75.8997533!16s%2Fg%2F11f53h6z_y!19sChIJ____2LLiYjkRpV-cFvsscQ8?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "KIDZEE PLAY SCHOOL",
+    "locatonDetails": "https://www.google.com/maps/place/KIDZEE+PLAY+SCHOOL/data=!4m7!3m6!1s0x3962fda68fec70b1:0x46812e02aec1ca34!8m2!3d22.7432174!4d75.8757922!16s%2Fg%2F11q40cxrb2!19sChIJsXDsj6b9YjkRNMrBrgIugUY?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Govt Girls school, Road No. 4, Nanda Nagar, Indore",
+    "locatonDetails": "https://www.google.com/maps/place/Govt+Girls+school,+Road+No.+4,+Nanda+Nagar,+Indore/data=!4m7!3m6!1s0x3962fd832a6c3441:0x6871504eb17e5e0e!8m2!3d22.7447356!4d75.8762427!16s%2Fg%2F11rsf8r9yp!19sChIJQTRsKoP9YjkRDl5-sU5QcWg?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Bajrang Nagar Shaskiya Madhyamik Shala",
+    "locatonDetails": "https://www.google.com/maps/place/Bajrang+Nagar+Shaskiya+Madhyamik+Shala/data=!4m7!3m6!1s0x3962fde964134721:0xa68103bdfb8a905a!8m2!3d22.7450525!4d75.8825543!16s%2Fg%2F11f8hsfr_0!19sChIJIUcTZOn9YjkRWpCK-70DgaY?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Govt. Higher Secondary School Nanda Nagar",
+    "locatonDetails": "https://www.google.com/maps/place/Govt.+Higher+Secondary+School+Nanda+Nagar/data=!4m7!3m6!1s0x3962fd8a28fa2591:0xaca73f71a82c3717!8m2!3d22.7478973!4d75.8752951!16s%2Fg%2F11p3h3jmz4!19sChIJkSX6KIr9YjkRFzcsqHE_p6w?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Govt Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/Govt+Higher+Secondary+School/data=!4m7!3m6!1s0x3962fd5f136c055d:0xb440d5b6b6493cf6!8m2!3d22.7475878!4d75.8820671!16s%2Fg%2F11b88vh56t!19sChIJXQVsE1_9YjkR9jxJtrbVQLQ?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Kids Heaven Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/Kids+Heaven+Higher+Secondary+School/data=!4m7!3m6!1s0x3963029e0fffffff:0x1729c5dab41f003!8m2!3d22.7486129!4d75.8716157!16s%2Fg%2F1td5pp6g!19sChIJ____D54CYzkRA_BBq12ccgE?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Holy Star School Teen Puliya",
+    "locatonDetails": "https://www.google.com/maps/place/Holy+Star+School+Teen+Puliya/data=!4m7!3m6!1s0x3962fd60f0b4eb37:0xe9d547163407f26f!8m2!3d22.7450019!4d75.8745288!16s%2Fg%2F11ggzlrx06!19sChIJN-u08GD9YjkRb_IHNBZH1ek?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "सरस्वती शिशु मंदिर",
+    "locatonDetails": "https://www.google.com/maps/place/%E0%A4%B8%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%A4%E0%A5%80+%E0%A4%B6%E0%A4%BF%E0%A4%B6%E0%A5%81+%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0/data=!4m7!3m6!1s0x3962fd7710444907:0x7aaed47e291d2cbf!8m2!3d22.7446412!4d75.8799383!16s%2Fg%2F11lfh84kgl!19sChIJB0lEEHf9YjkRvywdKX7Urno?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Lord Krishna Children Academy",
+    "locatonDetails": "https://www.google.com/maps/place/Lord+Krishna+Children+Academy/data=!4m7!3m6!1s0x396302a733c89d79:0x79e118b4bd1da0a1!8m2!3d22.7509811!4d75.8827293!16s%2Fg%2F1pty0x9l7!19sChIJeZ3IM6cCYzkRoaAdvbQY4Xk?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Pink Flower Higher Secondary School_Indore",
+    "locatonDetails": "https://www.google.com/maps/place/Pink+Flower+Higher+Secondary+School_Indore/data=!4m7!3m6!1s0x3962fd6772ac2127:0xa18842c75f53135c!8m2!3d22.7403037!4d75.875203!16s%2Fg%2F11bbt85x7m!19sChIJJyGscmf9YjkRXBNTX8dCiKE?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Royal Kids Public School & Day Care Center",
+    "locatonDetails": "https://www.google.com/maps/place/Royal+Kids+Public+School+%26+Day+Care+Center/data=!4m7!3m6!1s0x3962fddb5f8d2f65:0xbd8566c11bc22bce!8m2!3d22.7431977!4d75.8872579!16s%2Fg%2F11rz4rnlxw!19sChIJZS-NX9v9YjkRzivCG8Fmhb0?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Vedic bal Niketan High secondary school",
+    "locatonDetails": "https://www.google.com/maps/place/Vedic+bal+Niketan+High+secondary+school/data=!4m7!3m6!1s0x3962fded8f08768f:0x9a4cea6c5ca6ce59!8m2!3d22.7431992!4d75.899863!16s%2Fg%2F11t2tz0shq!19sChIJj3YIj-39YjkRWc6mXGzqTJo?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Baba public school Vijay Nagar indore",
+    "locatonDetails": "https://www.google.com/maps/place/Baba+public+school+Vijay+Nagar+indore/data=!4m7!3m6!1s0x3962fd5363aafadf:0xe0ca41c35970a733!8m2!3d22.744361!4d75.89788!16s%2Fg%2F11fzf7c_rp!19sChIJ3_qqY1P9YjkRM6dwWcNByuA?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Gyan Carnival Play School",
+    "locatonDetails": "https://www.google.com/maps/place/Gyan+Carnival+Play+School/data=!4m7!3m6!1s0x3963029c30b57b5b:0x7c0b63d1e3c84c7d!8m2!3d22.7514109!4d75.8697437!16s%2Fg%2F11bbrk_7f9!19sChIJW3u1MJwCYzkRfUzI49FjC3w?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Shashkiya Boys & Girls High School|",
+    "locatonDetails": "https://www.google.com/maps/place/Shashkiya+Boys+%26+Girls+High+School%7C/data=!4m7!3m6!1s0x3962fd5f4b04075b:0x761ecd43822ab731!8m2!3d22.7477309!4d75.882285!16s%2Fg%2F11bbrj69tm!19sChIJWwcES1_9YjkRMbcqgkPNHnY?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Shaskiya Prathmik Vidyalaya",
+    "locatonDetails": "https://www.google.com/maps/place/Shaskiya+Prathmik+Vidyalaya/data=!4m7!3m6!1s0x3962fd66b5765c45:0x75ef9f84ef385396!8m2!3d22.7420734!4d75.8721305!16s%2Fg%2F11bbrlyrvd!19sChIJRVx2tWb9YjkRllM474Sf73U?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Malav Vidya Mandir Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/Malav+Vidya+Mandir+Higher+Secondary+School/data=!4m7!3m6!1s0x3962fd621887354f:0xedbaef08df6c2920!8m2!3d22.7464644!4d75.8703256!16s%2Fg%2F1q629xn4t!19sChIJTzWHGGL9YjkRICls3wjvuu0?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Ames Play School",
+    "locatonDetails": "https://www.google.com/maps/place/Ames+Play+School/data=!4m7!3m6!1s0x3962fd5fae4f4bdf:0xa6cba0ba2f1eb570!8m2!3d22.746273!4d75.8789265!16s%2Fg%2F1q62d8_n9!19sChIJ30tPrl_9YjkRcLUeL7qgy6Y?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Tiny Tots School",
+    "locatonDetails": "https://www.google.com/maps/place/Tiny+Tots+School/data=!4m7!3m6!1s0x3962fd60ad2660cb:0x9ee07899b07e87f!8m2!3d22.7426525!4d75.8760713!16s%2Fg%2F1q629xvlp!19sChIJy2AmrWD9YjkRf-gHm4kH7gk?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Patel market bhawansh school",
+    "locatonDetails": "https://www.google.com/maps/place/Patel+market+bhawansh+school/data=!4m7!3m6!1s0x3962fd1aec6a4b4b:0x857e7f68e9f901c1!8m2!3d22.7416776!4d75.8946406!16s%2Fg%2F11p0z3gzn1!19sChIJS0tq7Br9YjkRwQH56Wh_foU?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Gokul Nursery School",
+    "locatonDetails": "https://www.google.com/maps/place/Gokul+Nursery+School/data=!4m7!3m6!1s0x3962fd61554ac031:0x1ca931d2facd061f!8m2!3d22.7421392!4d75.8709087!16s%2Fg%2F11bbrgnp79!19sChIJMcBKVWH9YjkRHwbN-tIxqRw?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Shri Sai Vidhya Mandir School",
+    "locatonDetails": "https://www.google.com/maps/place/Shri+Sai+Vidhya+Mandir+School/data=!4m7!3m6!1s0x3962fd58e545eff1:0x95e03b457bd0c865!8m2!3d22.7473183!4d75.8839057!16s%2Fg%2F11cly6tyc7!19sChIJ8e9F5Vj9YjkRZcjQe0U74JU?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Bal Vikas Vidhya Niketan",
+    "locatonDetails": "https://www.google.com/maps/place/Bal+Vikas+Vidhya+Niketan/data=!4m7!3m6!1s0x3962fd430b1a009b:0x9f16ca09b7f10504!8m2!3d22.7345124!4d75.8808756!16s%2Fg%2F11fyzcqkdh!19sChIJmwAaC0P9YjkRBAXxtwnKFp8?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Baby Care Convent H. S. School",
+    "locatonDetails": "https://www.google.com/maps/place/Baby+Care+Convent+H.+S.+School/data=!4m7!3m6!1s0x3962fd5ebcf56cc3:0x7b29badb79a06319!8m2!3d22.7441009!4d75.8812001!16s%2Fg%2F11bw4wl55n!19sChIJw2z1vF79YjkRGWOgedu6KXs?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Bal public higher secondary school",
+    "locatonDetails": "https://www.google.com/maps/place/Bal+public+higher+secondary+school/data=!4m7!3m6!1s0x3962fd532a051ff7:0x67a6dc26df4b2d3e!8m2!3d22.7407791!4d75.8746166!16s%2Fg%2F11q959jwcp!19sChIJ9x8FKlP9YjkRPi1L3ybcpmc?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Bhawerkua",
+    "locatonDetails": "https://www.google.com/maps/place/Bhawerkua/data=!4m7!3m6!1s0x3963036dee7ca7ef:0x979cbd8e5365c3df!8m2!3d22.7520459!4d75.8797533!16s%2Fg%2F11s31mxsdq!19sChIJ76d87m0DYzkR38NlU469nJc?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "LIG Link Rood.lala chowk Choraha",
+    "locatonDetails": "https://www.google.com/maps/place/LIG+Link+Rood.lala+chowk+Choraha/data=!4m7!3m6!1s0x3962e37ed27506cd:0xb5fb9576d802f70d!8m2!3d22.7355086!4d75.9015871!16s%2Fg%2F11p106cqbn!19sChIJzQZ10n7jYjkRDfcC2HaV-7U?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "शासकीय नवीन माध्यमिक विद्यालय",
+    "locatonDetails": "https://www.google.com/maps/place/%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%95%E0%A5%80%E0%A4%AF+%E0%A4%A8%E0%A4%B5%E0%A5%80%E0%A4%A8+%E0%A4%AE%E0%A4%BE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%AE%E0%A4%BF%E0%A4%95+%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B2%E0%A4%AF/data=!4m7!3m6!1s0x3962fd5358c636f3:0x3a983b2eb98b0978!8m2!3d22.7406359!4d75.8941639!16s%2Fg%2F11gy3h_1l6!19sChIJ8zbGWFP9YjkReAmLuS47mDo?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Vedaanta The Global Pre School",
+    "locatonDetails": "https://www.google.com/maps/place/Vedaanta+The+Global+Pre+School/data=!4m7!3m6!1s0x3962fd4f6ebb48e7:0x6754e914360f8651!8m2!3d22.7340099!4d75.8892923!16s%2Fg%2F11flvw145d!19sChIJ50i7bk_9YjkRUYYPNhTpVGc?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Bajrang nagar",
+    "locatonDetails": "https://www.google.com/maps/place/Bajrang+nagar/data=!4m7!3m6!1s0x3962fd55a3916c49:0x748faad2da92ba68!8m2!3d22.7468765!4d75.8831683!16s%2Fg%2F11v13bv2dp!19sChIJSWyRo1X9YjkRaLqS2tKqj3Q?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Mother Mary School",
+    "locatonDetails": "https://www.google.com/maps/place/Mother+Mary+School/data=!4m7!3m6!1s0x3962fd6d5c629411:0x86739b372ecc973d!8m2!3d22.7349389!4d75.8849107!16s%2Fg%2F1vxfyknm!19sChIJEZRiXG39YjkRPZfMLjebc4Y?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "School",
+    "locatonDetails": "https://www.google.com/maps/place/School/data=!4m7!3m6!1s0x3962fd5b491a1a9f:0x5d6420ac38836cd2!8m2!3d22.7377983!4d75.8834883!16s%2Fg%2F11dflbc9ch!19sChIJnxoaSVv9YjkR0myDOKwgZF0?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "St. Joseph School",
+    "locatonDetails": "https://www.google.com/maps/place/St.+Joseph+School/data=!4m7!3m6!1s0x3962fd5ebfffffff:0x3797aacbea84d7b6!8m2!3d22.7414852!4d75.8829729!16s%2Fg%2F1tmphxs_!19sChIJ____v179YjkRtteE6suqlzc?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Government School Malviya Nager",
+    "locatonDetails": "https://www.google.com/maps/place/Government+School+Malviya+Nager/data=!4m7!3m6!1s0x3962fd821a56b45b:0x80f6d75b5033a0ef!8m2!3d22.7431679!4d75.8959059!16s%2Fg%2F11m9y5jqc2!19sChIJW7RWGoL9YjkR76AzUFvX9oA?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Vikas Vidhya Niketan",
+    "locatonDetails": "https://www.google.com/maps/place/Vikas+Vidhya+Niketan/data=!4m7!3m6!1s0x3962fd6d5c629411:0x68a380c2a2186f9e!8m2!3d22.7475447!4d75.8702072!16s%2Fg%2F1td9th_8!19sChIJEZRiXG39YjkRnm8YosKAo2g?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Aadarsh Bouddhik Hr.sec School",
+    "locatonDetails": "https://www.google.com/maps/place/Aadarsh+Bouddhik+Hr.sec+School/data=!4m7!3m6!1s0x3963029855762b03:0x80caf1883be14575!8m2!3d22.7570319!4d75.8739095!16s%2Fg%2F11cn7l0cql!19sChIJAyt2VZgCYzkRdUXhO4jxyoA?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Shiv kripa vidhya Mandir",
+    "locatonDetails": "https://www.google.com/maps/place/Shiv+kripa+vidhya+Mandir/data=!4m7!3m6!1s0x3962e35826de1f65:0x74e1e27345151b45!8m2!3d22.7447929!4d75.9000054!16s%2Fg%2F11v3_4byhm!19sChIJZR_eJljjYjkRRRsVRXPi4XQ?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "H. S. S. Malviya Nagar",
+    "locatonDetails": "https://www.google.com/maps/place/H.+S.+S.+Malviya+Nagar/data=!4m7!3m6!1s0x3962fd4b6f569e81:0x5ab7022ae0aa20b0!8m2!3d22.7407789!4d75.8940309!16s%2Fg%2F11fwhz3xv0!19sChIJgZ5Wb0v9YjkRsCCq4CoCt1o?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Nageshwar Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/Nageshwar+Higher+Secondary+School/data=!4m7!3m6!1s0x3962fd44b0000005:0x55cb79fc1771d29e!8m2!3d22.7366824!4d75.8831659!16s%2Fg%2F11b8b3k6lv!19sChIJBQAAsET9YjkRntJxF_x5y1U?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Government Municipal School",
+    "locatonDetails": "https://www.google.com/maps/place/Government+Municipal+School/data=!4m7!3m6!1s0x3962fd58c5555553:0x54f6aed9e31eacc7!8m2!3d22.7468765!4d75.8831684!16s%2Fg%2F11c3l7sl9r!19sChIJU1VVxVj9YjkRx6we49mu9lQ?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Jeevan Jyoti Bal Mandir",
+    "locatonDetails": "https://www.google.com/maps/place/Jeevan+Jyoti+Bal+Mandir/data=!4m7!3m6!1s0x3962fd6269ecf1b1:0x790cbe819cea2334!8m2!3d22.7464214!4d75.8688837!16s%2Fg%2F1q62grfv3!19sChIJsfHsaWL9YjkRNCPqnIG-DHk?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "A.B PUBLIC HIGH SCHOOL",
+    "locatonDetails": "https://www.google.com/maps/place/A.B+PUBLIC+HIGH+SCHOOL/data=!4m7!3m6!1s0x3962e2af6d619861:0x5bf7731aa14ecb24!8m2!3d22.7435943!4d75.9100849!16s%2Fg%2F11hd4v1_q3!19sChIJYZhhba_iYjkRJMtOoRpz91s?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Bharat Bhavan",
+    "locatonDetails": "https://www.google.com/maps/place/Bharat+Bhavan/data=!4m7!3m6!1s0x3962fd5c9f99dddf:0x77eee483263af75d!8m2!3d22.7345384!4d75.8809446!16s%2Fg%2F11c2y7x1bv!19sChIJ392Zn1z9YjkRXfc6JoPk7nc?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Paathshala Play School",
+    "locatonDetails": "https://www.google.com/maps/place/Paathshala+Play+School/data=!4m7!3m6!1s0x39631dd031ae0759:0x356bf8e1e0d34b97!8m2!3d22.7554684!4d75.9090437!16s%2Fg%2F11hykg70kj!19sChIJWQeuMdAdYzkRl0vT4OH4azU?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Shanti Bal Mandir",
+    "locatonDetails": "https://www.google.com/maps/place/Shanti+Bal+Mandir/data=!4m7!3m6!1s0x3962fd5b6451ca09:0x933f1777be438ca0!8m2!3d22.7393493!4d75.8829539!16s%2Fg%2F11f2hzvx39!19sChIJCcpRZFv9YjkRoIxDvncXP5M?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Kids Cucoon Play School",
+    "locatonDetails": "https://www.google.com/maps/place/Kids+Cucoon+Play+School/data=!4m7!3m6!1s0x396302986e75e8dd:0x4c5ac6a407cead43!8m2!3d22.7582321!4d75.8757971!16s%2Fg%2F124yhwskp!19sChIJ3eh1bpgCYzkRQ63OB6TGWkw?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Universal Solvent International School",
+    "locatonDetails": "https://www.google.com/maps/place/Universal+Solvent+International+School/data=!4m7!3m6!1s0x3963035a61b13d6b:0x62b884782082a11e!8m2!3d22.7520459!4d75.8797533!16s%2Fg%2F11s2hzhdj9!19sChIJaz2xYVoDYzkRHqGCIHiEuGI?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Bast Car Drayvining School self & sef",
+    "locatonDetails": "https://www.google.com/maps/place/Bast+Car+Drayvining+School+self+%26+sef/data=!4m7!3m6!1s0x3962fd00aaaf463d:0xf6272e54d5b324f4!8m2!3d22.7478651!4d75.8779747!16s%2Fg%2F11h2c27dy9!19sChIJPUavqgD9YjkR9CSz1VQuJ_Y?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "V.b.m Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/V.b.m+Higher+Secondary+School/data=!4m7!3m6!1s0x3962fd5a386f13c7:0x34d16b4a2f56bcd8!8m2!3d22.744336!4d75.8728358!16s%2Fg%2F11fnw1dh3r!19sChIJxxNvOFr9YjkR2LxWL0pr0TQ?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Kalam Libray",
+    "locatonDetails": "https://www.google.com/maps/place/Kalam+Libray/data=!4m7!3m6!1s0x3962fd889c2f9981:0x283eee421339a5ef!8m2!3d22.7364359!4d75.8874366!16s%2Fg%2F11ff1pf36k!19sChIJgZkvnIj9YjkR76U5E0LuPig?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "New Annpurna Bal Vinay Mandir High School",
+    "locatonDetails": "https://www.google.com/maps/place/New+Annpurna+Bal+Vinay+Mandir+High+School/data=!4m7!3m6!1s0x3962fd635726bcc1:0x7ca5ade1e0f3e1f3!8m2!3d22.7425625!4d75.8672807!16s%2Fg%2F1q69yn229!19sChIJwbwmV2P9YjkR8-Hz4OGtpXw?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "St. Vincent Pallotti School",
+    "locatonDetails": "https://www.google.com/maps/place/St.+Vincent+Pallotti+School/data=!4m7!3m6!1s0x39630283139b8e83:0x37bf11fada5f0cf0!8m2!3d22.7508946!4d75.8629721!16s%2Fg%2F1q62bclhp!19sChIJg46bE4MCYzkR8Axf2voRvzc?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Music Class /Dance",
+    "locatonDetails": "https://www.google.com/maps/place/Music+Class+%2FDance/data=!4m7!3m6!1s0x3962fd50c4324771:0x2956f552decb366b!8m2!3d22.7428627!4d75.8901325!16s%2Fg%2F11tcx93nr6!19sChIJcUcyxFD9YjkRazbL3lL1Vik?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Little Dolphins Montessori School",
+    "locatonDetails": "https://www.google.com/maps/place/Little+Dolphins+Montessori+School/data=!4m7!3m6!1s0x3962fd5b25f36ba9:0x1d28c676bc1dd06e!8m2!3d22.7381932!4d75.8848389!16s%2Fg%2F11bxg5y6h3!19sChIJqWvzJVv9YjkRbtAdvHbGKB0?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "everonn public school",
+    "locatonDetails": "https://www.google.com/maps/place/everonn+public+school/data=!4m7!3m6!1s0x396302abf7e57d41:0x80d7c32037166d01!8m2!3d22.7558922!4d75.8948394!16s%2Fg%2F11b6gj_gz4!19sChIJQX3l96sCYzkRAW0WNyDD14A?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Pink flower school",
+    "locatonDetails": "https://www.google.com/maps/place/Pink+flower+school/data=!4m7!3m6!1s0x3962fd5caef02f7b:0x1ba7541c063cfc27!8m2!3d22.7369624!4d75.8824705!16s%2Fg%2F11hcdsc0wj!19sChIJey_wrlz9YjkRJ_w8BhxUpxs?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Ed Merit School",
+    "locatonDetails": "https://www.google.com/maps/place/Ed+Merit+School/data=!4m7!3m6!1s0x3962fd9eb8a78e91:0x39413d40f395c3b4!8m2!3d22.7371156!4d75.8833255!16s%2Fg%2F11q4c7fjfx!19sChIJkY6nuJ79YjkRtMOV80A9QTk?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Garha Public Higher Secondary School (G.P.H.S. School), Tapeshwari Bag, Indore",
+    "locatonDetails": "https://www.google.com/maps/place/Garha+Public+Higher+Secondary+School+%28G.P.H.S.+School%29,+Tapeshwari+Bag,+Indore/data=!4m7!3m6!1s0x3962e2a90c8af141:0xc8e2edb73fcd3179!8m2!3d22.7476113!4d75.907252!16s%2Fg%2F11g02b7dsx!19sChIJQfGKDKniYjkReTHNP7ft4sg?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Joint Mission 2nd Branch",
+    "locatonDetails": "https://www.google.com/maps/place/Joint+Mission+2nd+Branch/data=!4m7!3m6!1s0x396302992792764d:0xa1f9b6aa632b02f7!8m2!3d22.754833!4d75.8736835!16s%2Fg%2F11f08zzvtm!19sChIJTXaSJ5kCYzkR9wIrY6q2-aE?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Mata ji ka mandir dropati villa",
+    "locatonDetails": "https://www.google.com/maps/place/Mata+ji+ka+mandir+dropati+villa/data=!4m7!3m6!1s0x3962fd0dc48d62d7:0xaf02db48a89862d5!8m2!3d22.7399731!4d75.8870535!16s%2Fg%2F11hdx81_sm!19sChIJ12KNxA39YjkR1WKYqEjbAq8?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "G-Kids International School",
+    "locatonDetails": "https://www.google.com/maps/place/G-Kids+International+School/data=!4m7!3m6!1s0x3962fd5df9830da5:0x61f32055e134db61!8m2!3d22.7428392!4d75.87744!16s%2Fg%2F11c56r1760!19sChIJpQ2D-V39YjkRYds04VUg82E?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "M.P.V.N. School Indore",
+    "locatonDetails": "https://www.google.com/maps/place/M.P.V.N.+School+Indore/data=!4m7!3m6!1s0x3962e2a95fd8747d:0xe4eda8dcebc26f90!8m2!3d22.7467034!4d75.9058046!16s%2Fg%2F11f03_648t!19sChIJfXTYX6niYjkRkG_C69yo7eQ?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "St Arnold's Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/St+Arnold%27s+Higher+Secondary+School/data=!4m7!3m6!1s0x396302ac365a616d:0x329d1e572ff17544!8m2!3d22.7584024!4d75.8953628!16s%2Fg%2F1th22687!19sChIJbWFaNqwCYzkRRHXxL1cenTI?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Mayur Convent School",
+    "locatonDetails": "https://www.google.com/maps/place/Mayur+Convent+School/data=!4m7!3m6!1s0x3962fd6028f33ebd:0xec74461028f1176d!8m2!3d22.7480602!4d75.8743596!16s%2Fg%2F11y1q_qnh9!19sChIJvT7zKGD9YjkRbRfxKBBGdOw?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Shridha School Indore",
+    "locatonDetails": "https://www.google.com/maps/place/Shridha+School+Indore/data=!4m7!3m6!1s0x3962fd5c8c35ed9b:0x5d9891e0f22090f6!8m2!3d22.7392208!4d75.8901538!16s%2Fg%2F11j1ktbw52!19sChIJm-01jFz9YjkR9pAg8uCRmF0?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "324.BADI BAMORI",
+    "locatonDetails": "https://www.google.com/maps/place/324.BADI+BAMORI/data=!4m7!3m6!1s0x3962fd5be8bd978b:0xc12d1780df728a27!8m2!3d22.7489151!4d75.8890332!16s%2Fg%2F11fm_43y9y!19sChIJi5e96Fv9YjkRJ4py34AXLcE?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "BALGOKULAM - | Activity Centre, Play Group, kindergarten, Pre School, Day Care",
+    "locatonDetails": "https://www.google.com/maps/place/BALGOKULAM+-+%7C+Activity+Centre,+Play+Group,+kindergarten,+Pre+School,+Day+Care/data=!4m7!3m6!1s0x3962fd50c4fde9ed:0x73266ac1452a9cb1!8m2!3d22.7428753!4d75.8899684!16s%2Fg%2F11dfk_qp7p!19sChIJ7en9xFD9YjkRsZwqRcFqJnM?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Arihant Higher Secondary School",
+    "locatonDetails": "https://www.google.com/maps/place/Arihant+Higher+Secondary+School/data=!4m7!3m6!1s0x3962fd5b7c481c2f:0x61cf2b2c0c65414d!8m2!3d22.7398178!4d75.882665!16s%2Fg%2F11bv3v8myk!19sChIJLxxIfFv9YjkRTUFlDCwrz2E?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Target Tutorial",
+    "locatonDetails": "https://www.google.com/maps/place/Target+Tutorial/data=!4m7!3m6!1s0x3962fda049f270fb:0xcb1aebe555542304!8m2!3d22.74689!4d75.8823315!16s%2Fg%2F11gjh9ymd7!19sChIJ-3DySaD9YjkRBCNUVeXrGss?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Nav Adarsh Vidhya Niketan H.S. School 1213 fonix youn colony",
+    "locatonDetails": "https://www.google.com/maps/place/Nav+Adarsh+Vidhya+Niketan+H.S.+School+1213+fonix+youn+colony/data=!4m7!3m6!1s0x39631d2cc9555555:0xbdbc0392ffba8d8e!8m2!3d22.7338837!4d75.8846324!16s%2Fg%2F11jk28jwyy!19sChIJVVVVySwdYzkRjo26_5IDvL0?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Pioneer Convent School",
+    "locatonDetails": "https://www.google.com/maps/place/Pioneer+Convent+School/data=!4m7!3m6!1s0x39631d576afd8de9:0x1b2cf55606c1bdd9!8m2!3d22.757302!4d75.914794!16s%2Fg%2F11ckwbc4k1!19sChIJ6Y39alcdYzkR2b3BBlb1LBs?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Smartschool Junior Indore",
+    "locatonDetails": "https://www.google.com/maps/place/Smartschool+Junior+Indore/data=!4m7!3m6!1s0x3963032862782d23:0x8ab23a672263a443!8m2!3d22.7566113!4d75.8698477!16s%2Fg%2F11fjbqkb_1!19sChIJIy14YigDYzkRQ6RjImc6soo?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Pre School",
+    "locatonDetails": "https://www.google.com/maps/place/Pre+School/data=!4m7!3m6!1s0x3963029e9d36209d:0xd1943f1d63339740!8m2!3d22.751635!4d75.870915!16s%2Fg%2F11tfdzb93h!19sChIJnSA2nZ4CYzkRQJczYx0_lNE?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "indore public school - Eastern Campus",
+    "locatonDetails": "https://www.google.com/maps/place/indore+public+school+-+Eastern+Campus/data=!4m7!3m6!1s0x396302a6380fe917:0x5ac02750d4e757e9!8m2!3d22.753049!4d75.8868161!16s%2Fg%2F11rgdbb6vp!19sChIJF-kPOKYCYzkR6Vfn1FAnwFo?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Abhivyakti - School of Fine and Performing Arts.",
+    "locatonDetails": "https://www.google.com/maps/place/Abhivyakti+-+School+of+Fine+and+Performing+Arts./data=!4m7!3m6!1s0x3962fd49d99dff2f:0x807878aded4db380!8m2!3d22.7371996!4d75.8917345!16s%2Fg%2F124t32p_5!19sChIJL_-d2Un9YjkRgLNN7a14eIA?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "PH I.T.I INDORE",
+    "locatonDetails": "https://www.google.com/maps/place/PH+I.T.I+INDORE/data=!4m7!3m6!1s0x396302993d28b9bb:0xe919ef67fd694f7a!8m2!3d22.7553278!4d75.8730015!16s%2Fg%2F11c6ccb57x!19sChIJu7koPZkCYzkRek9p_WfvGek?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Mahavir Kids Care",
+    "locatonDetails": "https://www.google.com/maps/place/Mahavir+Kids+Care/data=!4m7!3m6!1s0x3962e399f77705d9:0x8b168e7714a64ed0!8m2!3d22.7425521!4d75.9004806!16s%2Fg%2F11t3v0c4tc!19sChIJ2QV395njYjkR0E6mFHeOFos?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "BeKids Play School / Pre School",
+    "locatonDetails": "https://www.google.com/maps/place/BeKids+Play+School+%2F+Pre+School/data=!4m7!3m6!1s0x396302a97eaaaaab:0xca76a8a124ec3c31!8m2!3d22.750084!4d75.8969102!16s%2Fg%2F11j90z06lf!19sChIJq6qqfqkCYzkRMTzsJKGodso?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "2/20",
+    "locatonDetails": "https://www.google.com/maps/place/2%2F20/data=!4m7!3m6!1s0x396302a91c99974f:0x4fdb3462df4d1a0d!8m2!3d22.75356!4d75.891481!16s%2Fg%2F11hdc3m2k7!19sChIJT5eZHKkCYzkRDRpN32I0208?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Kuchi The School Art",
+    "locatonDetails": "https://www.google.com/maps/place/Kuchi+The+School+Art/data=!4m7!3m6!1s0x3962fd5fec48b553:0x99a200ea72f86e57!8m2!3d22.7476332!4d75.8778359!16s%2Fg%2F1q62f6g80!19sChIJU7VI7F_9YjkRV274cuoAopk?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Podar International School - Indore (Vijaynagar)",
+    "locatonDetails": "https://www.google.com/maps/place/Podar+International+School+-+Indore+%28Vijaynagar%29/data=!4m7!3m6!1s0x396302ac6db3dcbd:0x1b95d11f5af987d2!8m2!3d22.7568853!4d75.8956871!16s%2Fg%2F11znp7kb2!19sChIJvdyzbawCYzkR0of5Wh_RlRs?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Government school",
+    "locatonDetails": "https://www.google.com/maps/place/Government+school/data=!4m7!3m6!1s0x3962fd44397c6047:0xa77e84b5b1709789!8m2!3d22.7314028!4d75.8526483!16s%2Fg%2F11s16km7nw!19sChIJR2B8OUT9YjkRiZdwsbWEfqc?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "locationName": "Lil Cipur Playschool",
+    "locatonDetails": "https://www.google.com/maps/place/Lil+Cipur+Playschool/data=!4m7!3m6!1s0x39631d5ebeeed0d5:0x7479788fb62410d2!8m2!3d21.0686228!4d82.7525294!16s%2Fg%2F11dyz4y_sx!19sChIJ1dDuvl4dYzkR0hAkto94eXQ?authuser=0&hl=en&rclk=1"
+  }
+]
