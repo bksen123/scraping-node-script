@@ -82,7 +82,7 @@ async function getLocalPlacesInfo(requestParams) {
 var fs = require('fs');
 
 asyncS.forEachSeries(['hall', 'sports hall'], (item, callback) => {
-  console.log("item=======", item);
+  console.log("item=======", item + ' 452011');
   const requestParams = {
     baseURL: `http://google.com`,
     query: item + ' 452011', // what we want to search
