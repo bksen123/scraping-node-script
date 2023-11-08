@@ -25,17 +25,17 @@ async function fillDataFromPage(page) {
       const address = addressElement ? addressElement.textContent.replaceAll("·", "").trim() : "";
 
       // Additional information
-      const viewL = el.querySelector(".hfpxzc")?.getAttribute("href");
+      const locatonDetails = el.querySelector(".hfpxzc")?.getAttribute("href");
       const keyword = el.querySelector(".qBF1Pd + span")?.textContent.trim();
       const postCode = el.querySelector(".cfS6ac")?.textContent.trim();
       const tel = el.querySelector(".dLRLre")?.textContent.trim();
       const googleMapsLink = el.querySelector("a[data-value]")?.getAttribute("href");
       const website = el.querySelector("a[data-value]")?.getAttribute("data-url");
       const email = el.querySelector('a[href^="mailto:"]')?.textContent;
-      console.log("viewL", viewL);
+      console.log("locatonDetails", locatonDetails);
       return {
         locationName,
-        viewL,
+        locatonDetails,
         keyword,
         postCode,
         address,
