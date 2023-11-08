@@ -80,7 +80,8 @@ async function getLocalPlacesInfo(requestParams) {
 }
 
 var fs = require('fs');
-var keywordList = ['hall', 'sports hall']
+var keywordList = ['hall']
+// var keywordList = ['hall', 'sports hall']
 // asyncS.forEachSeries(keywordList, (item, callback) => {
 //   console.log("item=======", item);
 //   const requestParams = {
@@ -146,7 +147,8 @@ async function PlacesInfo(requestParams) {
 
   const page = await browser.newPage();
 
-  const URL = `${requestParams.baseURL}/maps/search/${requestParams.query}?hl=${requestParams.hl}`;
+  const URL = `${requestParams.baseURL}?hl=${requestParams.hl}`;
+  // const URL = `${requestParams.baseURL}/maps/search/${requestParams.query}?hl=${requestParams.hl}`;
 
   await page.setDefaultNavigationTimeout(60000);
   await page.goto(URL);
@@ -154,14 +156,14 @@ async function PlacesInfo(requestParams) {
   await page.waitForNavigation();
 
   const scrollContainer = ".m6QErb[aria-label]";
-  const localPlacesInfo = [];
+  let localPlacesInfo = {};
 
   await page.waitForTimeout(2000);
   await scrollPage(page, scrollContainer);
   page.on('console', (msg) => {
     console.log('Page Log:', msg.text());
   });
-  localPlacesInfo.push(...(await fillDataFromPage(page)));
+  localPlacesInfo = await fillPage(page).length ?  await fillPage(page)[0] : {};
 
   await browser.close();
 
@@ -176,8 +178,8 @@ async function getLocationDetails () {
           console.log(err);
           callback()
       } else {
-        obj = JSON.parse(data); //now it an object
-        console.log("obj===========", obj);
+        let locationsList = JSON.parse(data); //now it an object
+        QueryForLocation(locationsList)
         callback()
       }
     });
@@ -186,6 +188,31 @@ async function getLocationDetails () {
     // getLocationDetails
   });
 }
-
 getLocationDetails();
+
+
+async function QueryForLocation(locationsList) {
+  asyncS.forEachSeries(locationsList, (item, callback) => {
+    console.log("item=======", item);
+    const requestParams = {
+      baseURL: item.locatonDetails,
+      hl: "en", // parameter defines the language to use for the Google maps search
+    };
+    PlacesInfo(requestParams).then((locations) => {
+      console.log("locations=========", locations)
+        callback();
+      
+      // if (locations.length) {
+      //   fs.writeFile(item + '.json', JSON.stringify(locations), 'utf8', (err, data) => {
+      //     callback();
+      //   });
+      // } else {
+      //   callback();
+      // }
+    });
+  }, () => {
+    console.log('Scraping 2222 completed.');
+    return 
+  });
+}
 
