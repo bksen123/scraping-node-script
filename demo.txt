@@ -1,0 +1,108 @@
+const puppeteer = require('puppeteer');
+
+(async () => {
+  const browser = await puppeteer.launch();
+  const page = await browser.newPage();
+  await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36');
+  await page.setViewport({ width: 1366, height: 768 });
+
+  // Navigate to the Google Maps page you want to scrape
+  await page.goto('https://www.google.com/maps', { waitUntil: 'load' });
+
+  // Type a search query into the search bar
+  // await page.type('input[aria-label="Search"]', 'Your Search Query');
+  await page.type('#searchboxinput', 'hall 452011');
+
+  // Click the search button
+  await page.click('#searchbox-searchbutton', 'Search Location');
+
+
+
+  // Wait for the search results to load (you may need to adjust the timing)
+  // await page.waitForSelector('div[aria-label^="Results for"]');
+  try {
+    await page.waitForSelector('div[aria-label^="Results for "]', { timeout: 120000 }); // Increase the timeout to 120 seconds
+  } catch (error) {
+    console.error('Element not found within the specified timeout.');
+  }
+
+  // Extract data from the search results
+  // Extract data from the search results
+const results = await page.evaluate(() => {
+  const elements = document.querySelectorAll('div[aria-label^="Results for"]');
+  console.log("elements========", elements);
+  const data = [];
+
+  elements.forEach(element => {
+    const titleElement = element.querySelector('h3');
+    const addressElement = element.querySelector('span[aria-label="Address"]');
+    
+    if (titleElement && addressElement) {
+      const title = titleElement.textContent;
+      const address = addressElement.textContent;
+      data.push({ title, address });
+    }
+  });
+  console.log("data=========", data);
+
+  return data;
+});
+
+
+  console.log(results);
+
+  await browser.close();
+})();
+
+
+
+
+
+const puppeteer = require('puppeteer');
+
+(async () => {
+  const browser = await puppeteer.launch({ headless: false });
+  const page = await browser.newPage();
+
+  try {
+    await page.goto('https://www.google.com/maps', { waitUntil: 'networkidle2' });
+    await page.type('#searchboxinput', 'hall 452011');
+    await page.keyboard.press('Enter');
+    await page.waitForSelector('div[aria-label^="Results for "]');
+
+    // Intercept and log console messages from the page context
+    page.on('console', (msg) => {
+      console.log('Page Log:', msg.text());
+    });
+
+    const results = await page.evaluate(() => {
+      const elements = document.querySelectorAll('div[aria-label^="Results for "]');
+      const data = [];
+
+      elements.forEach(element => {
+        const titleElement = element.querySelector('aria-label');
+        const addressElement = element.querySelector('span[data-item-id="address"]');
+        console.log("titleElement=======", titleElement);
+        console.log("addressElement=======", addressElement);
+        if (titleElement && addressElement) {
+          const title = titleElement.textContent.trim();
+          const address = addressElement.textContent.trim();
+          data.push({ title, address });
+        }
+        // if (titleElement && addressElement) {
+        //   const title = titleElement.textContent.trim();
+        //   const address = addressElement.textContent.trim();
+        //   data.push({ title, address });
+        // }
+      });
+
+      return data;
+    });
+
+    console.log(results);
+  } catch (error) {
+    console.error('An error occurred:', error);
+  } finally {
+    await browser.close();
+  }
+})();
